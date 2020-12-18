@@ -1,16 +1,16 @@
-//-1
+// -1
 
 //document.write('hello world')
 // alert('hello world')
 // console.log('hello world')
 
-//-
+// -
 
 //document.write('hello world')
 //alert('wassup fam')
 //console.log('hello world')
 
-//-2
+// -2
 
 // let a1j = "Ahmed";
 // let a2j = "Jamal";
@@ -22,7 +22,7 @@
 // console.log(a1j,a3j,a2j);
 // console.log(a2j,a1j,a3j);
 
-//-3
+// -3
 
 // const name = "Ahmed";
 // const lastname = "Jibril";
@@ -37,7 +37,7 @@
 
 // console.log(url);
 
-//-
+// -
 
 // const number = 30
 // const number2 = 20
@@ -52,5 +52,31 @@
 // console.log(mult);
 // console.log(div);
 
-//-4
+// -4
+
+// This is arrays []
+
+// const friends = ['Ahmed', 'Jamal', 'Jibril', 24,'år'];
+// console.log(friends);
+// console.log(friends[0]);
+// friends[0] = 'ikke Ahmed';
+// console.log(friends[0]); 
+// console.log(friends);
+// friends[3] = 25;
+// console.log(friends[3]);
+
+// -
+
+// This is function + params and arguments (){}
+
+// function muse(name) {
+//    console.log('My name is ' + name);  
+// }
+
+// // greet Ahmed
+// muse('Ahmed');
+// // greet Jamal
+// muse('Jamal');
+// // greet Jibril
+// muse('Jibril');
 
